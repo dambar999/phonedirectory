@@ -1,0 +1,22 @@
+It consists of two proframs
+
+
+1 It searches for word in dictionery word which matches the entered prefix
+
+Three Examples are hard coded we can import and change those cases;
+
+##how to run
+
+Import the project and go to PhoneDirectoryClass->Right Click->Run
+
+
+
+2 It finds the group anagrams for set of strings
+
+
+##how to run
+
+Import the project and go to CheckGroupAnagrams->Right Click->Run
+
+
+We can add or modify existing test from main class;
